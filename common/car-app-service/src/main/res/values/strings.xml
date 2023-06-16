@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="speed_herald">Speed herald</string>
+    <string name="speed_control_activated">Speed control activated. Current speed limit: %1s km/h</string>
+    <string name="speed_control_deactivated">Speed control deactivated. Please allow location tracking in the Settings and restart the app.</string>
+    <string name="speed_limit_of_km_h_exceeded">Speed limit of %1$s km/h exceeded</string>
+    <string name="speed_limit_of_km_h_exceeded_current_speed_km_h">Speed limit of %1$s km/h exceeded. Current speed: %2$s km/h.</string>
+    <string name="speed_control_activating">Trying to activate speed control …</string>
+</resources>
